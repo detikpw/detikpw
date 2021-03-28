@@ -1,6 +1,6 @@
 ### **Hi There !** 👋
 
-I'm Detik (he / his) a frontend developer working in Depok, Indonesia
+I'm Detik a frontend developer working in Depok, Indonesia
 
 ### 📚 Now
 * Functional Programming
