@@ -9,7 +9,8 @@ I'm Detik (he / his) a frontend developer working in Depok, Indonesia
 * Getting Clojure - Russ Olsen
 
 ### ⚙️ My recent / current tech stack
-* React js / Nuxt (vue)
+* React js
+* Nuxt (vue)
 * Flutter
 * Graphql
 * Tailwind css
