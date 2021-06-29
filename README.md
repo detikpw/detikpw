@@ -6,7 +6,7 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 * Functional Programming
 * Dart
 * Flutter
-* Getting Clojure - Russ Olsen
+* reasonml / rescript
 
 ### ⚙️ My recent / current tech stack
 * React js
