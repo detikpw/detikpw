@@ -4,17 +4,17 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 
 ### 📚 Now
 * Functional Programming
-* Dart
-* Flutter
-* reasonml / rescript
+* Exploring GenAI
+* Exploring Svelte and SolidJS
 
 ### ⚙️ My recent / current tech stack
-* React js
-* Nuxt (vue)
+* Next js (React js)
+* Supabase
 * Flutter
 * Graphql
 * Tailwind css
-* Styled system / Rebass
+* React query
+* Zustand
 
 
 ### 🐢 Pet project
@@ -23,7 +23,7 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 
 ### 😊 Fun fact
 * Use 2nd as username, detik in Indonesian is unit of time second
-* Currently like watching anime, k-drama / movie
+* Currently like watching anime, k-drama / movie, and play jrpg game
 
 You can reach me at [@2nd_frozenheart](https://twitter.com/2nd_frozenheart)
 
