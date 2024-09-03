@@ -19,6 +19,7 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 
 ### 🐢 Pet project
 * [aniapp.detik.moe](https://aniapp.detik.moe) created using elm and tailwind css
+* [labs.detik.moe](https://labs.detik.moe) currently only has github positive feeback, created using svelte and GPT API 
 
 ### 😊 Fun fact
 * Use 2nd as username, detik in Indonesian is unit of time second
