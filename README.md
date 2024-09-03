@@ -19,11 +19,13 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 
 ### 🐢 Pet project
 * [aniapp.detik.moe](https://aniapp.detik.moe) created using elm and tailwind css
-* [labs.detik.moe](https://labs.detik.moe) currently only has github positive feeback, created using svelte and GPT API 
+* [labs.detik.moe](https://labs.detik.moe) currently only has github positive feeback, created using svelte and GPT API
+* [blog](https://blog.detik.moe) 
 
 ### 😊 Fun fact
 * Use 2nd as username, detik in Indonesian is unit of time second
-* Currently like watching anime, k-drama / movie, and play jrpg game
+* Currently like watching anime and k-drama / movie
+* Love jrpg and visual novel game
 
 You can reach me at [@2nd_frozenheart](https://twitter.com/2nd_frozenheart)
 
