@@ -10,12 +10,11 @@ I'm Detik a frontend developer, working in Depok, Indonesia
 ### ⚙️ My recent / current tech stack
 * Next js (React js)
 * Supabase
-* Flutter
+* Firebase
 * Graphql
 * Tailwind css
 * React query
 * Zustand
-
 
 ### 🐢 Pet project
 * [aniapp.detik.moe](https://aniapp.detik.moe) created using elm and tailwind css
